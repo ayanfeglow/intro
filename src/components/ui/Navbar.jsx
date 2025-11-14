@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div>
         <header className='fixed min-w-[100%] bg-blue-400'>
-            <nav className='h-[8vh] items-center flex justify-between bg-blue-400 max-w-6xl mx-auto'>
+            <nav className='h-[8vh] items-center flex justify-between  max-w-6xl mx-auto bg-linear-gradient-to-r from-blue-400 to-blue-600 '>
                 <div className="">
                     <h2 className='text-xl font-semibold text-white'><Link to="/home">Logo</Link></h2>
                 </div>

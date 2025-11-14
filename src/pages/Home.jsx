@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <main>
       <div className="flex justify-center items-center h-[92vh]">
-        <div className="text-center">
+        <div className=" text-center">
           <h1 className="text-7xl font-bold text-blue-500 pb-2">
             Web Development
           </h1>
@@ -35,7 +35,7 @@ const Home = () => {
             Web development is a very interesting field from the frontend to the
             backend, all makes sense when you understand better
           </p>
-          <button className="px-8 py-2 border border-2 text-blue-500 rounded-md text-center mt-2 hover:bg-blue-500 hover:text-white hover:border-blue-500">
+          <button className="px-8 py-2 border border-2 text-blue-500 rounded-md text-center mt-2 hover:bg-blue-500 hover:text-white hover:border-blue-500 transition duration-300">
             <Link to="/about">Learn More</Link>
           </button>
         </div>
@@ -46,7 +46,7 @@ const Home = () => {
             <h1 className="text-center text-blue-500 font-bold text-4xl">
               About Us
             </h1>
-            <p className="text-blue-400 font-semibold text-center py-4">
+            <p className="text-white font-semibold text-center py-4">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
               nihil voluptatem quidem, officia nisi sint iste temporibus velit
               impedit repellendus debitis accusantium beatae dolore est, odio
