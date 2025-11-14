@@ -14,7 +14,7 @@ const Career = () => {
           starting your journey, we offer a collaborative environment where your
           skills can thrive and grow. Discover your potential with us and take
           the next step in your career today!
-        </p>
+        </p> 
         <div className="text-center pt-10">
           <button className="bg-blue-600 text-white px-6 py-2 rounded-md hover:bg-blue-500">
             Apply Now
@@ -24,7 +24,7 @@ const Career = () => {
       <footer>
         <div className="text-center p-4 bg-blue-600 text-white mt-[8vh]">
           &copy; 2025 Web Development. All rights reserved.
-        </div> 
+        </div>   
       </footer>
     </div>
   );
