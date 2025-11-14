@@ -24,7 +24,7 @@ const Career = () => {
       <footer>
         <div className="text-center p-4 bg-blue-600 text-white mt-[8vh]">
           &copy; 2025 Web Development. All rights reserved.
-        </div>
+        </div> 
       </footer>
     </div>
   );

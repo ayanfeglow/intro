@@ -14,7 +14,7 @@ const About = () => {
                 <img src={image} alt="" className='h-[100%] w-110'/>
             </div>
         </div>
-        
+    
         <footer>
             <div className="text-center p-4 bg-blue-600 text-white">
                 &copy; 2025 Web Development. All rights reserved.

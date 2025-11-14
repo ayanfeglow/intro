@@ -30,7 +30,7 @@ const Contact = () => {
           Have a question or just want to say hi? We’d love to hear from you!
         </p>
         <form className="max-w-130 grid m-auto h-100 pt-10">
-            <div className="max-w-130">
+            <div className="max-w-130"> 
             <input type="text" placeholder="Your Name" className="h-[50px] w-full rounded-xl focus:text-blue-700 border border-none outline-none pl-4" style={{backgroundColor: "rgba(255, 255, 255, 0.2)"}} {...register("name")}/>
             {errors.name && <p className="text-red-500">*{errors.name.message}</p>}
             </div>
