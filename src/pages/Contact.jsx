@@ -27,7 +27,7 @@ const Contact = () => {
       <div className="text-[#ffe] items-center text-center">
       <h1 className="text-blue-600 text-center text-4xl font-semibold pt-[15vh]">Contact us</h1>
         <p className="text-[20px]">
-          Have a question or just want to say hi? We’d love to hear from you!
+          Do You Have a question or just want to say hi? We’d love to hear from you!
         </p>
         <form className="max-w-130 grid m-auto h-100 pt-10">
             <div className="max-w-130"> 
